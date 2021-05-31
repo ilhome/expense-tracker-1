@@ -20,6 +20,9 @@ function App() {
         <TransactionList />
         <AddTransaction />
       </div>
+      <a href="https://github.com/ilhome/expense-tracker-1">
+        Abdubannoev Ilkhomjon
+      </a>
     </GlobalProvider>
   );
 }
